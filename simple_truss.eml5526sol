@@ -1,0 +1,36 @@
+Element Type: truss
+Units: IPS
+
+u1 = 0.008455186619343472
+v1 = 0.03155080204459438
+u2 = 0.0
+v2 = 0.0
+u3 = 0.0
+v3 = 0.0
+u4 = 0.0
+v4 = 0.0
+
+Comments:
+    - Example 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    - F = Free
+    - FX = Fixed
+    - VS = Vertical Slider
+    - HS = Horizontal Slider
+
+
+
+

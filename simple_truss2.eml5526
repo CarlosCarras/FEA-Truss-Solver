@@ -1,0 +1,22 @@
+type: truss
+units: IPS
+E:1000000, A:5
+
+E1: LN1:1, LN2:2
+E2: LN1:1, LN2:3
+E3: LN1:1, LN2:4
+
+N1: B:F, FX:1000, FY:1000
+N2: B:FX, XC:-100, YC:173.2
+N3: B:FX, XC:-100, YC:0
+N4: B:FX, XC:-100, YC:-57.74
+
+Comments:
+    - F = Free
+    - FX = Fixed
+    - VS = Vertical Slider
+    - HS = Horizontal Slider
+
+
+
+
